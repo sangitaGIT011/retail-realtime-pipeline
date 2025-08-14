@@ -1,0 +1,1 @@
+# Notes\n\n- Replace SQLite with your target warehouse as needed.\n- Airflow DAG paths must be updated for your machine.
