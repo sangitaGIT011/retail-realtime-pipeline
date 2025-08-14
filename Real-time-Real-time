@@ -1,0 +1,15 @@
+# Initialize local git
+git init
+
+# Add your GitHub repo as remote (replace with your username & repo name)
+git remote add origin https://github.com/YOUR_USERNAME/retail-realtime-pipeline.git
+
+# Stage all files
+git add .
+
+# Commit
+git commit -m "Initial commit - Retail Realtime Pipeline project"
+
+# Push to GitHub
+git branch -M main
+git push -u origin main
